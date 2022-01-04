@@ -33,3 +33,8 @@ Consequently, it was concluded that the best model in terms of overall accuracy 
 more precisely Dense Neural Network with Dropout (Deep Learning).
 While in terms of speed and confusion matrix metrics XGBoost is superior.
 
+Team Members:
+Siddhi Patil
+Ria Singh 
+Shatakshi Mohan
+Harsh Pooniwala
